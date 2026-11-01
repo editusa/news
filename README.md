@@ -2,7 +2,7 @@
 
 *America, well edited.*
 
-🌐 **Website:** [editusa.com](https://www.editusa.com/)
+🌐 **Website:** [https://www.editusa.com](https://www.editusa.com/)
 
 Edit USA is an independent digital news magazine based in Los Angeles, California, covering the developments, ideas and cultural stories that shape American life.
 
